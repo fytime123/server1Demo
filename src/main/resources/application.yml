@@ -1,0 +1,5 @@
+server:
+  port: 8080
+student:
+  name: "是老骥伏枥时间地方"
+  age: 56
